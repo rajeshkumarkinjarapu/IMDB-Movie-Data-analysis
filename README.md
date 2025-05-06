@@ -7,46 +7,49 @@ This project dives into a dataset of the Top 100 IMDb-rated movies from the past
 
 1) Data Loading & Cleaning
 
-Handled missing data and formatted monetary values.
+---Handled missing data and formatted monetary values.
 
-Scaled ratings (e.g., MetaCritic) for consistency.
+---Scaled ratings (e.g., MetaCritic) for consistency.
 
 2) Feature Engineering
 
-Created new features like profit and average rating.
+---Created new features like profit and average rating.
 
 3) Exploratory Data Analysis
 
-Top 10 most profitable movies.
+---Top 10 most profitable movies.
 
-Budget vs. Profit visualization.
+---Budget vs. Profit visualization.
 
-Movies with negative profit.
+---Movies with negative profit.
 
-Correlation between IMDb and MetaCritic ratings.
+---Correlation between IMDb and MetaCritic ratings.
 
-Genre-based and actor-based performance trends.
+---Genre-based and actor-based performance trends.
 
 4) Visualization
 
-Used Seaborn and Matplotlib for scatter plots, bar graphs, and more.
+---Used Seaborn and Matplotlib for scatter plots, bar graphs, and more.
+
 
 🧰 Tools & Libraries Used
-Python 3.x
 
-Pandas
+1)Python 3.x
 
-NumPy
+2)Pandas
 
-Matplotlib
+3)NumPy
 
-Seaborn
+4)Matplotlib
 
-Jupyter Notebook
+5)Seaborn
+
+6)Jupyter Notebook
+
 
 📈 Insights Highlight
-Found significant differences between production budgets and gross earnings.
+---Found significant differences between production budgets and gross earnings.
 
-Identified movies with highest profits and those with losses.
+---Identified movies with highest profits and those with losses.
 
-Compared average viewer ratings using both IMDb and MetaCritic.
+---Compared average viewer ratings using both IMDb and MetaCritic.
